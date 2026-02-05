@@ -31,7 +31,8 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📸 Demo
 
-![Game Screenshot](src/Screenshot%202026-02-04%20at%209.55.18%20PM.png)
+![Game Screenshot] <img width="1470" height="920" alt="Screenshot 2026-02-04 at 9 55 18 PM" src="https://github.com/user-attachments/assets/c7519306-015b-4976-9482-8e9a6b90e404" />
+
 
 ## 🚀 Stretch Features
 
